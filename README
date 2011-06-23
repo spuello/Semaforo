@@ -1,0 +1,3 @@
+Descripción del proyecto.
+
+Crear un semaforo en la intersección de dos calles. Deben luces en el NORTE, SUR, ESTE y OESTE. Cuando NORTE y SUR esten en ROJO, ESTE y OESTE permaneceran en VERDE. La luz verde de un semaforo debe tener una duración de 25 segundos, la roja de 30 segundos y la amarilla 5 segundos. 
